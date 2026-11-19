@@ -1,4 +1,4 @@
-# FinShed
+<h1><img src="/assets/finshed-logo-primary.svg" alt="FinShed" width="280"></h1>
 
 Apps that get the job done, made in New South Wales, Australia.
 
