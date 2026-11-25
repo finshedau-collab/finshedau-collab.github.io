@@ -4,9 +4,9 @@ title: Terms of Use
 
 # Terms of Use
 
-Last updated: 19 November 2026
+Last updated: 25 November 2026
 
-These terms apply to the FinShed apps **Pots - Split Costs, No Sign-up** and **Loadout - Plate Calculator** (the "apps"). By downloading or using an app, you agree to these terms. If you don't agree, please don't use the apps.
+These terms apply to the FinShed apps **Pots - Split Costs, No Sign-up**, **Loadout - Plate Calculator** and **Hourstead: WFH Hours Log** (the "apps"). By downloading or using an app, you agree to these terms. If you don't agree, please don't use the apps.
 
 ## Who we are
 
@@ -20,7 +20,7 @@ FinShed is a business name of Umair Ahmed Khan, a sole trader based in New South
 
 ## Purchases
 
-- Some features are paid, one-time purchases (Pots unlock, Loadout Pro). There are no subscriptions.
+- Some features are paid, one-time purchases (Pots unlock, Loadout Pro, Hourstead unlock). There are no subscriptions.
 - Purchases are made through Google Play and are also covered by Google Play's terms. Refund requests go through Google Play.
 - A purchase is linked to your Google account and can be restored on a new phone signed in to the same account.
 
@@ -34,10 +34,12 @@ The apps work offline and keep your data on your phone. We don't run accounts or
 
 - [Pots privacy policy](https://docs.google.com/document/d/e/2PACX-1vSz3W-KTdsjiV4MMGQIiDpri3DM4zrTdksRgei89r8SzDqAruvccJn3luX9pbLKw4xA3xMqPEltVSCP/pub)
 - [Loadout privacy policy](https://docs.google.com/document/d/e/2PACX-1vTgZs8NCJS6-oBKlEpaMno52hcHTOnOHU5BTHyy8gDvBumJsrswCfhOI5dMgrSilDyg1CUVoaFn1EPY/pub)
+- [Hourstead privacy policy](https://docs.google.com/document/d/e/2PACX-1vSVbanS-RydoDzUW8dkCDNnRenUPOynmnA-fM4W7oGvga5b-KpvhMGUKvZn5NtyfqBOFjj_jmL4FfcX/pub)
 
 ## Important notes
 
 - **Pots** helps you keep track of shared costs. It is a record-keeping tool, not financial, tax or legal advice. Check amounts before you pay or ask for money.
+- **Hourstead** helps you keep a record of hours worked from home. It is a record-keeping tool, not tax, financial or legal advice, and it does not decide what you can claim. Check your records and the rules that apply to you before you lodge a tax return.
 - **Loadout** suggests how to load plates. Always check the bar, plates, collars and total weight yourself before lifting, lift within your ability and use safe equipment. Loadout is not training or medical advice.
 
 ## Australian Consumer Law
